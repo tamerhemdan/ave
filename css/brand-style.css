@@ -1,0 +1,147 @@
+
+
+            /**start brand header**/
+
+.brand-header{
+  
+  background-image:url(br-header.jpg);
+  height:260px;
+  background-position: center;
+  background-size: cover;
+  
+}
+
+.back-blak{
+  background-color: rgba(00,00,00,0.4);
+  height: 100%;
+  color: #fff;
+  padding: 80px
+}
+
+.back-blak h1{
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 100;
+
+  
+}
+.back-blak h1 span{
+  
+  font-weight: 500;
+  color: #00C8C8;
+}
+
+
+.back-blak p{
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: 100;
+}
+.my-col{
+  margin: 50px 10px;
+}
+
+.my-col h4{
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  line-height: 200%;
+  
+}
+.my-col h5{
+    line-height: 200%;
+  font-size: 1rem;
+    text-transform: uppercase;
+  text-align: justify;
+}
+.my-col p{
+  font-size: .8rem;
+
+}
+.my-col img{
+  max-width: 100%;
+  margin:10px 0;
+  
+}
+
+
+
+
+
+
+                            /**start local stores**/
+
+.Sitios{
+  margin: 50px 0;
+}
+
+.card {
+  border: 0;
+  
+  
+}
+
+
+.card-body h5,.map-info h5{
+  text-transform: uppercase;
+  
+  
+}
+
+.card-body h6{
+  text-transform: uppercase;
+}
+.card-body h6,.map-info h6,
+.map-info a,.map-info time{
+  
+  color: #727272;
+  font-size: .8rem;
+}
+.map-info h6{
+  text-transform: capitalize;
+}
+.card-body p,.map-info p{
+    color: #727272;
+  font-size: .8rem;
+}
+
+.card-body a{
+    text-transform: uppercase;
+   font-size: 1rem;
+  line-height: 200%;
+  color: black;
+  font-weight: 500;
+}
+
+
+                    /** start map**/
+
+
+.map-img img{
+  max-width: 100%;
+  
+}
+.map-info i{
+  font-size: 1rem;
+  margin-right: 1rem;
+}
+
+.link-icon{
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+  
+}
+
+.link-icon a{
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  padding: 10px;
+  background-color: #555;
+  border-radius: 50%;
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+
+
